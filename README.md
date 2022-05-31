@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/gitproject09/gitproject09.github.io/tree/master/images/logo.JPG" width="100" />
+  <img alt="Logo" src="https://github.com/gitproject09/gitproject09.github.io/blob/master/images/logo.JPG" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1
