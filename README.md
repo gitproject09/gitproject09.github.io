@@ -13,6 +13,6 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/gitproject09/gitproject09.github.io/images/demo.png" />
+  <img alt="Demo" src="https://github.com/gitproject09/gitproject09.github.io/images/demo.jpg" />
 </div>
 
